@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cajero bancario", "cajero bancario\cajero bancario.csproj", "{2D409DEF-94BC-4C70-8796-783F627DC3D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{F6379396-62BA-4324-8E2C-8BB7B02793D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D409DEF-94BC-4C70-8796-783F627DC3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D409DEF-94BC-4C70-8796-783F627DC3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D409DEF-94BC-4C70-8796-783F627DC3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D409DEF-94BC-4C70-8796-783F627DC3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {483CE981-C371-45A2-9C3B-AC3BE48460DE}
+	EndGlobalSection
+EndGlobal
